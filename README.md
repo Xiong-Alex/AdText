@@ -1,4 +1,4 @@
-# ProjectEthanAlexKhales
+# Project: Alex Ethan Khales
 "Adventurer Text" is a text base video game where the player can interact using the console. The program will enable the player to traverse a dungeon while collecting loot, solving five puzzles, and battling five monsters. 
 The game contains 30 rooms, and the player must first solve a puzzle, then fight a monster to progress to the next section of rooms. They can equip armor, weapons, scrolls, health potions, and accessories from more than 30 items. 
 The game has a help system to provide guidance, a list of commands, an inventory, and a login system. It tracks the player's scores and rooms visited and automatically saves the player's progress.
