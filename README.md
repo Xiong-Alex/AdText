@@ -24,6 +24,7 @@ Some rooms will contain items that can be listed using the "look" command. To pi
 Type "help" in the console to see the list of possible commands for the game.
 
 # Possible commands:
+-Commands:
   -Look: View Room
   -<Direction>: Move to the next room via Exit
   -Get <Item Name>: Pick up Item
