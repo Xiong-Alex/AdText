@@ -25,14 +25,14 @@ Type "help" in the console to see the list of possible commands for the game.
 
 # Possible commands:
 - Look: View Room
-- (Direction): Move to the next room via Exit
-- Get (Item Name): Pick up Item
-- Drop (Item Name): Drop Item
+- Direction: Move to the next room via Exit
+- Get "Item Name": Pick up Item
+- Drop "Item Name": Drop Item
 - Player: View Player
 - Inventory: Check Inventory
-- Inspect (Item Name): Reveals description & other attributes of Item
-- Equip/Unequip armor (armor Name): Equip & Unequip Armor
-- Equip/Unequip weapon (weapon Name): Equip & Unequip Weapon
+- Inspect "Item Name": Reveals description & other attributes of Item
+- Equip/Unequip armor "armor Name": Equip & Unequip Armor
+- Equip/Unequip weapon "Weapon Name": Equip & Unequip Weapon
 - Exit or X: will end the game
-- Use (Item Name): uses the item if allowed
-- Allocate(A) # SP to (STAT): Allocates your SP to your Stats
+- Use "Item Name": uses the item if allowed
+- Allocate "A" # SP to "STAT": Allocates your SP to your Stats
